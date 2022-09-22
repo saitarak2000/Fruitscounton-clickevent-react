@@ -9,6 +9,7 @@ In this project, let's build a **Fruits Counter** by applying the concepts we ha
 <br/>
 
 ### Design Files
+Checkout this url: https://fruitscountreac.ccbp.tech
 
 <details>
 <summary>Click to view</summary>
